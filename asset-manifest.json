@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/FacuJS/TODOsApp/static/css/main.73fa195c.css",
-    "main.js": "/FacuJS/TODOsApp/static/js/main.e6ce0c8a.js",
-    "index.html": "/FacuJS/TODOsApp/index.html",
-    "static/media/delete.svg": "/FacuJS/TODOsApp/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
-    "static/media/check.svg": "/FacuJS/TODOsApp/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
-    "main.73fa195c.css.map": "/FacuJS/TODOsApp/static/css/main.73fa195c.css.map",
-    "main.e6ce0c8a.js.map": "/FacuJS/TODOsApp/static/js/main.e6ce0c8a.js.map"
+    "main.css": "/TODOsApp/static/css/main.73fa195c.css",
+    "main.js": "/TODOsApp/static/js/main.8329d713.js",
+    "index.html": "/TODOsApp/index.html",
+    "static/media/delete.svg": "/TODOsApp/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
+    "static/media/check.svg": "/TODOsApp/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
+    "main.73fa195c.css.map": "/TODOsApp/static/css/main.73fa195c.css.map",
+    "main.8329d713.js.map": "/TODOsApp/static/js/main.8329d713.js.map"
   },
   "entrypoints": [
     "static/css/main.73fa195c.css",
-    "static/js/main.e6ce0c8a.js"
+    "static/js/main.8329d713.js"
   ]
 }
